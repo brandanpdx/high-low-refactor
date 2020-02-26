@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/higher-lower/HighLow.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/high-low/HighLow.csproj",
       "projectName": "HighLow",
-      "projectPath": "/Users/Guest/Desktop/higher-lower/HighLow.csproj",
+      "projectPath": "/Users/Guest/Desktop/high-low/HighLow.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/higher-lower/obj/",
+      "outputPath": "/Users/Guest/Desktop/high-low/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
